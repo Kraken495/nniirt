@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+.opening{
+    animation: opened 1.5s forwards;
+}
+@keyframes  opened{ 
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 100%;
+    }
+}

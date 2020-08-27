@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nniirt/static/css/main.c8faaf83.chunk.css",
+    "main.js": "/nniirt/static/js/main.43d0475e.chunk.js",
+    "main.js.map": "/nniirt/static/js/main.43d0475e.chunk.js.map",
+    "runtime-main.js": "/nniirt/static/js/runtime-main.b7c9a020.js",
+    "runtime-main.js.map": "/nniirt/static/js/runtime-main.b7c9a020.js.map",
+    "static/css/2.847e01e0.chunk.css": "/nniirt/static/css/2.847e01e0.chunk.css",
+    "static/js/2.c348da30.chunk.js": "/nniirt/static/js/2.c348da30.chunk.js",
+    "static/js/2.c348da30.chunk.js.map": "/nniirt/static/js/2.c348da30.chunk.js.map",
+    "index.html": "/nniirt/index.html",
+    "precache-manifest.e123b5e93a7816278637fe4faaddc036.js": "/nniirt/precache-manifest.e123b5e93a7816278637fe4faaddc036.js",
+    "service-worker.js": "/nniirt/service-worker.js",
+    "static/css/2.847e01e0.chunk.css.map": "/nniirt/static/css/2.847e01e0.chunk.css.map",
+    "static/css/main.c8faaf83.chunk.css.map": "/nniirt/static/css/main.c8faaf83.chunk.css.map",
+    "static/js/2.c348da30.chunk.js.LICENSE.txt": "/nniirt/static/js/2.c348da30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7c9a020.js",
+    "static/css/2.847e01e0.chunk.css",
+    "static/js/2.c348da30.chunk.js",
+    "static/css/main.c8faaf83.chunk.css",
+    "static/js/main.43d0475e.chunk.js"
+  ]
+}

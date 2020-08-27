@@ -1,0 +1,8 @@
+.FildsList{
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+}
+.FildsList .list{
+    width: 40%;
+}
